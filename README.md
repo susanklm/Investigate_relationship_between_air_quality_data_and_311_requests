@@ -1,1 +1,3 @@
-# Investigate_relationship_between_air_quality_data_and_311_requests-
+# Investigate relationship between air quality data and 311 requests.
+
+To view the ipynb file with maps (the one which difficult to render), to [nbviewer](https://nbviewer.org/), copy and paste the github file url, the click go!.
